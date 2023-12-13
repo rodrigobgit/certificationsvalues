@@ -8,6 +8,21 @@ const certificationData = [
     domain: 'Salesforce',
     rewardValue: '100€'
   },
+  {
+	  certificationName: 'Salesforce Certified Developer',
+	  domain: 'Salesforce',
+	  rewardValue: '100€'
+  },
+  {
+	  certificationName: 'Java Developer',
+	  domain: 'Oracle',
+	  rewardValue: '300€'
+  },
+  {
+	  certificationName: 'Python Developer',
+	  domain: 'Python',
+	  rewardValue: '200€'
+  },
   // Add more data as needed
 ];
 
